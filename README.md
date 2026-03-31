@@ -7,8 +7,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | suryansh singh rajput |
-| **Registration Number** | 24bai10951 |
+| **Name** | suryansh rajput |
+| **Registration Number** | 24BAI10951 |
 | **Course** | Open Source Software |
 | **Chosen Software** | Git |
 | **License of Chosen Software** | GNU General Public License v2 (GPL v2) |
